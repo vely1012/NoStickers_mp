@@ -1,3 +1,3 @@
 # NoStickers_mp - my first site. enjoy
 
->https://github.com/vely1012/NoStickers_mp/
+>https://vely1012.github.io/NoStickers_mp/
